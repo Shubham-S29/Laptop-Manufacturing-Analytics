@@ -1,0 +1,12 @@
+# Excel temp/backup files (if you edit locally)
+~$*.xlsx
+*.xlk
+*.xlsm~
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
