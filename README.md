@@ -78,15 +78,3 @@ A comprehensive Excel-based analysis of 6,000 manufacturing records spanning pro
 - Grain: One row per production batch (includes region, factory, product line, supplier, material, machine, shift, date)
 
 ---
-
-## Screenshots
-
-![Summary Dashboard](screenshots/summary_dashboard.png)
-
-![Profitability Analysis](screenshots/profitability_analysis.png)
-
-![Quality & Warranty](screenshots/quality_warranty.png)
-
-![Inventory Trends](screenshots/inventory_trends.png)
-
-![Maintenance & Downtime](screenshots/maintenance_downtime.png)
